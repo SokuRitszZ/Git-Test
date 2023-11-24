@@ -1,4 +1,3 @@
 # README
 
-meteor 练习使用github pr 
-速佬%%%%%%
+meteor 练习使用github prprpr
